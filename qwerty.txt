@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 changed bob
+=====
+
+>>>>>>> trying to change by alice
